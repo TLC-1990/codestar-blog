@@ -26,7 +26,8 @@ SECRET_KEY = "django-insecure-w+m#w)zud9g80+l&1*oa54=r&6xl3o*a29k+gu13*e9qu%-&_%
 DEBUG = False
 
 ALLOWED_HOSTS = [
- ,'.herokuapp.com'
+    '.herokuapp.com'
+    'codestar-blog-tlc.herokuapp.com'
 ]
 
 
