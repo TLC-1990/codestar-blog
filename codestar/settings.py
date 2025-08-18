@@ -30,8 +30,9 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "8000-ajgreaves-blog-lesson-pl-mjfxnpd4ht.us2.codeanyapp.com",
-    ".herokuapp.com"
+    "https://codestar-blog-tlc-468e2f2259bb.herokuapp.com/",
+    ".herokuapp.com",
+    "http://localhost:8000", "127.0.0.1"
 ]
 
 
